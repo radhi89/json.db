@@ -1,13 +1,13 @@
 
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "like" },
+    { "id": 2, "title": "Beautiful" },
+    { "id": 3, "title": "not interested" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "HELLO ...", "postId": 1 },
+    { "id": 2, "body": "KEEP IT CLEAN", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
